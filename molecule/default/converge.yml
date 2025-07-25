@@ -3,5 +3,5 @@
   hosts: all
   gather_facts: true
   roles:
-    - role: sachapan.timezone
+    - sachapan.timezone
       
