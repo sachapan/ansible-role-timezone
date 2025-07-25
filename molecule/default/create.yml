@@ -2,7 +2,7 @@
 - name: Create
   hosts: localhost
   connection: local
-  gather_facts: true 
+  gather_facts: false
   # no_log: "{{ molecule_no_log }}"
   tasks:
     # TODO: Developer must implement and populate 'server' variable
