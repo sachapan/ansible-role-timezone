@@ -1,0 +1,10 @@
+galaxy_info:
+  namespace: sachapan
+  role_name: timezone
+  author: Sacha Panasuik 
+  description: "Set timezone."
+  license: GPL-3.0-only
+  min_ansible_version: 2.1
+  galaxy_tags: 
+    - time
+dependencies: []
