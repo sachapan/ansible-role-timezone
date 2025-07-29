@@ -1,10 +1,10 @@
 ---
 dependency:
   name: galaxy
-  ignore_errors: true
+  # ignore_errors: true
 driver:
   name: docker
-  ignore_errors: true
+  # ignore_errors: true
 lint: |
   set -e
   yamllint .
